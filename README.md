@@ -18,6 +18,7 @@ Simple age and gender detector using Machine learning
 
   
 ---------To Run this Model yourself:-----------
+ 
   #Clone this repository
 
   
@@ -43,3 +44,5 @@ Simple age and gender detector using Machine learning
   
   
   %View results
+
+  @output4.png
